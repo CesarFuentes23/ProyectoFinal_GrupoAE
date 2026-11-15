@@ -1,0 +1,301 @@
+tipo_donante,nombre,documento,correo,telefono,municipio,departamento
+empresa,Comercial Fuentes S.A. de C.V.,NIT-0614-900108,historico108@correo.com,79153820,Izalco,Sonsonate
+persona,Verónica López Pérez,DUI-90000025,historico25@correo.com,70516581,Santa Tecla,La Libertad
+persona,Karla Flores Alvarado,DUI-90000249,historico249@correo.com,79878496,Santa Tecla,La Libertad
+persona,Gabriela Fuentes Mejía,DUI-90000183,historico183@correo.com,77342328,Soyapango,San Salvador
+empresa,Comercial Flores S.A. de C.V.,NIT-0614-900024,historico24@correo.com,79800403,San Salvador,San Salvador
+persona,Verónica Castillo Mejía,DUI-90000195,historico195@correo.com,70954153,Sonsonate,Sonsonate
+persona,Héctor Fuentes Mejía,DUI-90000184,historico184@correo.com,79795359,San Salvador,San Salvador
+persona,Fernando Martínez Mejía,DUI-90000118,historico118@correo.com,73471021,Apopa,San Salvador
+persona,Julio López Mejía,DUI-90000126,historico126@correo.com,76473716,Apopa,San Salvador
+persona,Fernando Martínez Pérez,DUI-90000018,historico18@correo.com,72171162,Colón,La Libertad
+persona,Héctor Hernández Mejía,DUI-90000104,historico104@correo.com,71119650,San Salvador,San Salvador
+empresa,Comercial Fuentes S.A. de C.V.,NIT-0614-900228,historico228@correo.com,73189077,Izalco,Sonsonate
+persona,Fernando Ramírez Pérez,DUI-90000058,historico58@correo.com,76207034,Colón,La Libertad
+persona,Roberto Castillo Pérez,DUI-90000090,historico90@correo.com,70558141,Colón,La Libertad
+persona,Gabriela Orellana Pérez,DUI-90000073,historico73@correo.com,71371303,Santa Tecla,La Libertad
+persona,Roberto Orellana Mejía,DUI-90000170,historico170@correo.com,76997072,Colón,La Libertad
+persona,Julio Hernández Mejía,DUI-90000106,historico106@correo.com,70344122,Colón,La Libertad
+persona,Héctor Flores Alvarado,DUI-90000244,historico244@correo.com,79487826,Izalco,Sonsonate
+persona,Gabriela García Campos,DUI-00000103,nuevo103@correo.com,71802388,Soyapango,San Salvador
+persona,Fernando Ramírez Mejía,DUI-90000158,historico158@correo.com,72253550,Apopa,San Salvador
+persona,Fernando Flores Alvarado,DUI-90000248,historico248@correo.com,70815405,San Salvador,San Salvador
+persona,Roberto García Mejía,DUI-90000130,historico130@correo.com,78642129,Colón,La Libertad
+persona,Karla Castillo Mejía,DUI-90000199,historico199@correo.com,74976079,Soyapango,San Salvador
+persona,Ernesto García Pérez,DUI-90000032,historico32@correo.com,70735307,San Salvador,San Salvador
+persona,Héctor García Mejía,DUI-90000134,historico134@correo.com,70397564,Apopa,San Salvador
+empresa,Comercial Hernández S.A. de C.V.,NIT-0614-900060,historico60@correo.com,79121570,Izalco,Sonsonate
+persona,Marta Ramírez Pérez,DUI-90000051,historico51@correo.com,72111046,Sonsonate,Sonsonate
+persona,Daniela Ramírez Mejía,DUI-90000157,historico157@correo.com,79316854,Nahuizalco,Sonsonate
+persona,Ernesto Martínez Alvarado,DUI-90000212,historico212@correo.com,70223511,Izalco,Sonsonate
+persona,Marta Orellana Mejía,DUI-90000171,historico171@correo.com,73454198,Sonsonate,Sonsonate
+persona,Karla Ramírez Mejía,DUI-90000159,historico159@correo.com,70634273,Soyapango,San Salvador
+persona,Daniela Flores Alvarado,DUI-90000247,historico247@correo.com,78345287,Soyapango,San Salvador
+persona,Ernesto López Mejía,DUI-90000122,historico122@correo.com,73931992,Colón,La Libertad
+persona,Gabriela García Campos,DUI-00000123,nuevo123@correo.com,71780071,Sonsonate,Sonsonate
+persona,Julio Flores Pérez,DUI-90000046,historico46@correo.com,78695967,Apopa,San Salvador
+persona,Ernesto Martínez Mejía,DUI-90000112,historico112@correo.com,75396447,San Salvador,San Salvador
+persona,Verónica Hernández Alvarado,DUI-90000205,historico205@correo.com,77031602,Nahuizalco,Sonsonate
+persona,Julio López Alvarado,DUI-90000226,historico226@correo.com,76640583,Colón,La Libertad
+persona,Karla Castillo Pérez,DUI-90000099,historico99@correo.com,72749440,Sonsonate,Sonsonate
+persona,Gabriela Martínez Mejía,DUI-90000113,historico113@correo.com,79175965,Santa Tecla,La Libertad
+persona,Marta Fuentes Mejía,DUI-90000181,historico181@correo.com,73275782,Nahuizalco,Sonsonate
+persona,Ernesto Cruz Pérez,DUI-90000062,historico62@correo.com,71747937,Apopa,San Salvador
+persona,Karla Orellana Pérez,DUI-90000079,historico79@correo.com,78744766,Soyapango,San Salvador
+persona natural,Marta Martínez Mejía,DUI-70000001,tipoinvalido1@correo.com,76921542,Santa Tecla,La Libertad
+persona,Julio Hernández Pérez,DUI-90000006,repetido_historico6@correo.com,72145343,Apopa,San Salvador
+persona,Gabriela Hernández Alvarado,DUI-90000203,historico203@correo.com,74226505,Sonsonate,Sonsonate
+persona,Gabriela López Alvarado,DUI-90000223,historico223@correo.com,75937128,Soyapango,San Salvador
+persona,Daniela Fuentes Mejía,DUI-90000187,historico187@correo.com,74295226,Sonsonate,Sonsonate
+persona,Daniela Martínez Mejía,DUI-90000117,historico117@correo.com,71859928,Nahuizalco,Sonsonate
+persona,Marta Flores Mejía,DUI-90000141,historico141@correo.com,74716628,Nahuizalco,Sonsonate
+persona natural,Julio Cruz Molina,DUI-70000006,tipoinvalido6@correo.com,74622284,Apopa,San Salvador
+persona,Daniela López Alvarado,DUI-90000227,historico227@correo.com,78308504,Sonsonate,Sonsonate
+persona,Julio Ramírez Pérez,DUI-90000056,historico56@correo.com,76824151,San Salvador,San Salvador
+persona,Karla Ramírez Pérez,DUI-90000059,historico59@correo.com,71519817,Sonsonate,Sonsonate
+persona,Gabriela Flores Mejía,DUI-90000143,historico143@correo.com,77304641,Soyapango,San Salvador
+persona,Marta Hernández Mejía,DUI-90000101,historico101@correo.com,74894644,Nahuizalco,Sonsonate
+persona,Daniela Cruz Pérez,DUI-90000067,historico67@correo.com,79756647,Sonsonate,Sonsonate
+persona,Gabriela García Pérez,DUI-90000033,historico33@correo.com,70129013,Santa Tecla,La Libertad
+persona,Héctor Cruz Mejía,DUI-90000164,historico164@correo.com,70928145,Izalco,Sonsonate
+persona,Verónica Hernández Pérez,DUI-90000005,historico5@correo.com,70952229,Nahuizalco,Sonsonate
+persona,Gabriela Fuentes Pérez,DUI-90000083,historico83@correo.com,70739670,Sonsonate,Sonsonate
+persona,Karla Hernández Alvarado,DUI-90000209,historico209@correo.com,77851265,Santa Tecla,La Libertad
+empresa,Comercial Cruz S.A. de C.V.,NIT-0614-900036,historico36@correo.com,75261594,Izalco,Sonsonate
+persona,Verónica Cruz Pérez,DUI-90000065,historico65@correo.com,77054402,Santa Tecla,La Libertad
+persona,Julio López Pérez,DUI-90000026,historico26@correo.com,70509733,Colón,La Libertad
+empresa,Comercial Cruz S.A. de C.V.,NIT-0614-900096,historico96@correo.com,70816981,San Salvador,San Salvador
+persona,Daniela Ramírez Pérez,DUI-90000057,historico57@correo.com,73658163,Santa Tecla,La Libertad
+persona,Roberto Martínez Alvarado,DUI-90000210,historico210@correo.com,74976706,Colón,La Libertad
+persona,Héctor Martínez Pérez,DUI-90000014,repetido_historico14@correo.com,73388053,Apopa,San Salvador
+persona,Gabriela García Alvarado,DUI-90000233,historico233@correo.com,78255180,Santa Tecla,La Libertad
+persona,Gabriela López Pérez,DUI-90000023,historico23@correo.com,74087693,Soyapango,San Salvador
+persona,Fernando Fuentes Zelaya,DUI-00000108,nuevo108@correo.com,77465206,Izalco,Sonsonate
+persona,Julio Cruz Molina,DUI-80000126,donante126@correo.com,79571849,Apopa,San Salvador
+persona,Julio García Alvarado,DUI-90000236,historico236@correo.com,77835361,Izalco,Sonsonate
+persona,Héctor Flores Pérez,DUI-90000044,historico44@correo.com,76447623,Izalco,Sonsonate
+empresa,Comercial Flores S.A. de C.V.,NIT-0614-900144,historico144@correo.com,77890932,San Salvador,San Salvador
+persona,Verónica Fuentes Pérez,DUI-90000085,historico85@correo.com,79522641,Nahuizalco,Sonsonate
+persona,Karla Martínez Pérez,DUI-90000019,historico19@correo.com,73632159,Sonsonate,Sonsonate
+persona,Karla Fuentes Pérez,DUI-90000089,historico89@correo.com,77994457,Santa Tecla,La Libertad
+persona,Héctor Hernández Pérez,DUI-90000004,historico4@correo.com,79127046,Izalco,Sonsonate
+persona,Daniela Fuentes Pérez,DUI-90000087,historico87@correo.com,78770133,Soyapango,San Salvador
+persona,Gabriela Hernández Pérez,DUI-90000003,historico3@correo.com,77255438,Sonsonate,Sonsonate
+persona,Karla Martínez Alvarado,DUI-90000219,historico219@correo.com,71211042,Sonsonate,Sonsonate
+persona,Gabriela Hernández Pérez,DUI-90000003,repetido_historico3@correo.com,77255438,Sonsonate,Sonsonate
+persona,Verónica García Alvarado,DUI-90000235,historico235@correo.com,76191102,Sonsonate,Sonsonate
+persona,Daniela García Pérez,DUI-90000037,historico37@correo.com,75355042,Nahuizalco,Sonsonate
+persona,Verónica Martínez Mejía,DUI-90000115,historico115@correo.com,70486064,Sonsonate,Sonsonate
+empresa,Comercial Fuentes S.A. de C.V.,NIT-0614-900168,historico168@correo.com,79009290,San Salvador,San Salvador
+persona,Fernando García Pérez,DUI-90000038,historico38@correo.com,77104363,Apopa,San Salvador
+persona,Karla García Alvarado,DUI-90000239,historico239@correo.com,72385953,Soyapango,San Salvador
+persona,Roberto García Pérez,DUI-90000030,historico30@correo.com,72086022,Apopa,San Salvador
+persona,Karla López Mejía,DUI-90000129,historico129@correo.com,71367046,Santa Tecla,La Libertad
+persona,Roberto Orellana Pérez,DUI-90000070,historico70@correo.com,75910418,Apopa,San Salvador
+persona,Julio García Mejía,DUI-90000136,historico136@correo.com,76662059,San Salvador,San Salvador
+persona,Roberto Ramírez Mejía,DUI-90000150,historico150@correo.com,71682185,Apopa,San Salvador
+persona,Karla López Pérez,DUI-90000029,historico29@correo.com,79004212,Nahuizalco,Sonsonate
+persona,Julio Flores Alvarado,DUI-90000246,historico246@correo.com,72286215,Apopa,San Salvador
+persona,Julio Hernández Alvarado,DUI-90000206,historico206@correo.com,70471999,Apopa,San Salvador
+persona,Ernesto López Alvarado,DUI-00000112,nuevo112@correo.com,72726920,San Salvador,San Salvador
+persona,Julio Cruz Molina,DUI-00000116,nuevo116@correo.com,73906672,Izalco,Sonsonate
+persona,Marta Martínez Mejía,DUI-90000111,historico111@correo.com,78230842,Soyapango,San Salvador
+persona,Verónica Ramírez Aguilar,DUI-00000125,nuevo125@correo.com,74126157,Nahuizalco,Sonsonate
+persona,Verónica García Mejía,DUI-90000135,historico135@correo.com,72413201,Soyapango,San Salvador
+persona,Daniela García Mejía,DUI-90000137,historico137@correo.com,74065981,Santa Tecla,La Libertad
+persona,Héctor Ramírez Mejía,DUI-90000154,historico154@correo.com,73554793,Colón,La Libertad
+persona,Daniela Castillo Pérez,DUI-90000097,historico97@correo.com,74902334,Santa Tecla,La Libertad
+persona,Héctor García Alvarado,DUI-90000234,historico234@correo.com,71153687,Colón,La Libertad
+persona natural,Héctor Flores Rivas,DUI-70000004,tipoinvalido4@correo.com,78531228,Izalco,Sonsonate
+empresa,Comercial López S.A. de C.V.,NIT-0614-900192,historico192@correo.com,70824267,San Salvador,San Salvador
+empresa,Comercial López S.A. de C.V.,NIT-0614-900012,historico12@correo.com,74067632,Izalco,Sonsonate
+persona,Karla García Mejía,DUI-90000139,historico139@correo.com,71128835,Sonsonate,Sonsonate
+empresa,Comercial Fuentes S.A. de C.V.,NIT-0614-900048,historico48@correo.com,70988460,San Salvador,San Salvador
+persona,Marta Castillo Mejía,DUI-90000191,historico191@correo.com,77933122,Soyapango,San Salvador
+persona natural,Fernando Fuentes Zelaya,DUI-70000008,tipoinvalido8@correo.com,71686521,San Salvador,San Salvador
+persona natural,Verónica Ramírez Aguilar,DUI-70000005,tipoinvalido5@correo.com,73301715,Nahuizalco,Sonsonate
+persona,Verónica Flores Pérez,DUI-90000045,historico45@correo.com,77181704,Nahuizalco,Sonsonate
+persona,Daniela Hernández Alvarado,DUI-90000207,historico207@correo.com,75371883,Soyapango,San Salvador
+persona,Ernesto Hernández Pérez,DUI-90000002,historico2@correo.com,73441991,Colón,La Libertad
+persona,Daniela Orellana Pérez,DUI-90000077,historico77@correo.com,77319125,Nahuizalco,Sonsonate
+persona,Héctor Cruz Pérez,DUI-90000064,historico64@correo.com,70755402,San Salvador,San Salvador
+persona,Roberto Hernández Alvarado,DUI-90000200,historico200@correo.com,73898728,San Salvador,San Salvador
+persona,Marta Martínez Pérez,DUI-90000011,repetido_historico11@correo.com,77207459,Sonsonate,Sonsonate
+persona,Héctor Flores Rivas,DUI-00000124,nuevo124@correo.com,74524491,Izalco,Sonsonate
+persona,Verónica Orellana Mejía,DUI-90000175,historico175@correo.com,70994815,Soyapango,San Salvador
+persona,Daniela Flores Mejía,DUI-90000147,historico147@correo.com,74018002,Sonsonate,Sonsonate
+persona,Julio Flores Mejía,DUI-90000146,historico146@correo.com,78379156,Colón,La Libertad
+persona,Héctor García Pérez,DUI-90000034,historico34@correo.com,77790183,Colón,La Libertad
+persona,Ernesto Flores Mejía,DUI-90000142,historico142@correo.com,75433268,Apopa,San Salvador
+persona,Roberto López Alvarado,DUI-90000220,historico220@correo.com,72259421,Izalco,Sonsonate
+persona,Daniela Cruz Mejía,DUI-90000167,historico167@correo.com,78129716,Soyapango,San Salvador
+persona,Gabriela García Mejía,DUI-90000133,historico133@correo.com,70740360,Nahuizalco,Sonsonate
+persona,Héctor Martínez Mejía,DUI-90000114,historico114@correo.com,76630387,Colón,La Libertad
+persona,Julio Cruz Mejía,DUI-90000166,historico166@correo.com,76512009,Apopa,San Salvador
+persona,Verónica López Alvarado,DUI-90000225,historico225@correo.com,78115993,Santa Tecla,La Libertad
+persona,Daniela Orellana Batres,DUI-00000117,nuevo117@correo.com,79558409,Nahuizalco,Sonsonate
+persona natural,Gabriela García Campos,DUI-70000003,tipoinvalido3@correo.com,77096695,Sonsonate,Sonsonate
+persona,Karla Hernández Pérez,DUI-90000009,repetido_historico9@correo.com,78434535,Santa Tecla,La Libertad
+persona,Karla Fuentes Mejía,DUI-90000189,historico189@correo.com,74899275,Nahuizalco,Sonsonate
+persona,Fernando Fuentes Zelaya,DUI-00000118,nuevo118@correo.com,73268277,Apopa,San Salvador
+persona,Karla Cruz Pérez,DUI-90000069,historico69@correo.com,70679880,Nahuizalco,Sonsonate
+persona,Marta Hernández Pérez,DUI-90000001,historico1@correo.com,73401624,Santa Tecla,La Libertad
+persona,Marta García Mejía,DUI-90000131,historico131@correo.com,71107686,Sonsonate,Sonsonate
+persona,Karla Martínez Mejía,DUI-90000119,historico119@correo.com,77376060,Soyapango,San Salvador
+persona,Roberto López Pérez,DUI-90000020,historico20@correo.com,78106414,Izalco,Sonsonate
+persona,Héctor López Alvarado,DUI-90000224,historico224@correo.com,71984880,San Salvador,San Salvador
+empresa,Comercial Flores S.A. de C.V.,NIT-0614-900084,historico84@correo.com,72549081,Izalco,Sonsonate
+persona,Roberto Castillo Mejía,DUI-90000190,historico190@correo.com,79736666,Apopa,San Salvador
+persona,Marta López Pérez,DUI-90000021,historico21@correo.com,76520970,Nahuizalco,Sonsonate
+persona,Gabriela Martínez Pérez,DUI-90000013,historico13@correo.com,76864241,Nahuizalco,Sonsonate
+persona,Verónica Hernández Pérez,DUI-90000005,repetido_historico5@correo.com,70952229,Nahuizalco,Sonsonate
+persona,Verónica Hernández Mejía,DUI-90000105,historico105@correo.com,70554298,Santa Tecla,La Libertad
+persona,Daniela García Alvarado,DUI-90000237,historico237@correo.com,73719681,Nahuizalco,Sonsonate
+persona,Julio Orellana Mejía,DUI-90000176,historico176@correo.com,79187795,San Salvador,San Salvador
+persona,Karla Flores Pérez,DUI-90000049,historico49@correo.com,71668094,Santa Tecla,La Libertad
+persona,Ernesto López Alvarado,DUI-90000222,historico222@correo.com,71405049,Apopa,San Salvador
+persona natural,Roberto Hernández Pérez,DUI-70000000,tipoinvalido0@correo.com,79667353,San Salvador,San Salvador
+persona,Verónica Flores Alvarado,DUI-90000245,historico245@correo.com,75895339,Nahuizalco,Sonsonate
+empresa,Comercial Hernández S.A. de C.V.,NIT-0614-900240,historico240@correo.com,71831625,San Salvador,San Salvador
+persona,Marta Martínez Pérez,DUI-90000011,historico11@correo.com,77207459,Sonsonate,Sonsonate
+empresa,Comercial Hernández S.A. de C.V.,NIT-0614-900180,historico180@correo.com,76998511,Izalco,Sonsonate
+persona,Fernando Castillo Pérez,DUI-90000098,historico98@correo.com,77182223,Colón,La Libertad
+persona,Roberto Martínez Pérez,DUI-90000010,historico10@correo.com,72879263,Colón,La Libertad
+persona,Roberto Flores Mejía,DUI-90000140,historico140@correo.com,73362773,Izalco,Sonsonate
+persona,Gabriela Flores Pérez,DUI-90000043,historico43@correo.com,73311422,Sonsonate,Sonsonate
+persona,Roberto Martínez Mejía,DUI-90000110,historico110@correo.com,74641910,Apopa,San Salvador
+persona,Fernando Orellana Pérez,DUI-90000078,historico78@correo.com,75832541,Apopa,San Salvador
+persona,Karla Castillo Monterrosa,DUI-00000109,nuevo109@correo.com,77416171,Nahuizalco,Sonsonate
+persona,Marta Hernández Pérez,DUI-90000001,repetido_historico1@correo.com,73401624,Santa Tecla,La Libertad
+persona,Julio Cruz Pérez,DUI-90000066,historico66@correo.com,77673486,Colón,La Libertad
+persona,Karla López Alvarado,DUI-90000229,historico229@correo.com,77004903,Nahuizalco,Sonsonate
+persona,Marta Martínez Mejía,DUI-00000111,nuevo111@correo.com,73464366,Soyapango,San Salvador
+persona,Fernando Fuentes Pérez,DUI-90000088,historico88@correo.com,71871305,San Salvador,San Salvador
+persona,Roberto Hernández Pérez,DUI-80000130,donante130@correo.com,75914113,Colón,La Libertad
+persona,Roberto Ramírez Pérez,DUI-90000050,historico50@correo.com,71256460,Colón,La Libertad
+persona,Roberto Flores Pérez,DUI-90000040,historico40@correo.com,73367717,San Salvador,San Salvador
+persona,Héctor Castillo Pérez,DUI-90000094,historico94@correo.com,70321281,Apopa,San Salvador
+empresa,Comercial Cruz S.A. de C.V.,NIT-0614-900156,historico156@correo.com,72394821,Izalco,Sonsonate
+persona,Ernesto López Pérez,DUI-90000022,historico22@correo.com,76111583,Apopa,San Salvador
+persona,Daniela Hernández Pérez,DUI-90000007,repetido_historico7@correo.com,78006991,Soyapango,San Salvador
+persona,Ernesto Ramírez Pérez,DUI-90000052,historico52@correo.com,79142536,Izalco,Sonsonate
+persona,Verónica Martínez Pérez,DUI-90000015,repetido_historico15@correo.com,70483043,Soyapango,San Salvador
+persona,Gabriela López Mejía,DUI-90000123,historico123@correo.com,72440813,Sonsonate,Sonsonate
+persona,Verónica Ramírez Pérez,DUI-90000055,historico55@correo.com,70788708,Soyapango,San Salvador
+persona,Gabriela Martínez Pérez,DUI-90000013,repetido_historico13@correo.com,76864241,Nahuizalco,Sonsonate
+persona,Marta Cruz Pérez,DUI-90000061,historico61@correo.com,75482629,Nahuizalco,Sonsonate
+persona,Karla Cruz Mejía,DUI-90000169,historico169@correo.com,71946930,Santa Tecla,La Libertad
+persona,Daniela Flores Pérez,DUI-90000047,historico47@correo.com,72617074,Soyapango,San Salvador
+persona,Ernesto Orellana Mejía,DUI-90000172,historico172@correo.com,75742712,Izalco,Sonsonate
+persona,Fernando Cruz Pérez,DUI-90000068,historico68@correo.com,71255441,Izalco,Sonsonate
+persona,Fernando Flores Mejía,DUI-90000148,historico148@correo.com,70113072,Izalco,Sonsonate
+persona,Gabriela Hernández Mejía,DUI-90000103,historico103@correo.com,71651696,Soyapango,San Salvador
+persona,Fernando Castillo Mejía,DUI-90000198,historico198@correo.com,73121208,Apopa,San Salvador
+persona,Julio Martínez Pérez,DUI-90000016,historico16@correo.com,73729268,San Salvador,San Salvador
+persona,Héctor Flores Rivas,DUI-00000104,nuevo104@correo.com,77499034,San Salvador,San Salvador
+persona,Gabriela Orellana Mejía,DUI-90000173,historico173@correo.com,72814676,Nahuizalco,Sonsonate
+persona,Fernando Hernández Alvarado,DUI-90000208,historico208@correo.com,73518146,San Salvador,San Salvador
+persona,Daniela Orellana Mejía,DUI-90000177,historico177@correo.com,70261622,Santa Tecla,La Libertad
+persona,Ernesto Castillo Pérez,DUI-90000092,historico92@correo.com,73070817,Izalco,Sonsonate
+persona,Marta López Alvarado,DUI-90000221,historico221@correo.com,76357101,Nahuizalco,Sonsonate
+persona,Marta López Mejía,DUI-90000121,historico121@correo.com,75135988,Santa Tecla,La Libertad
+persona,Karla Castillo Monterrosa,DUI-80000129,donante129@correo.com,72976596,Santa Tecla,La Libertad
+persona,Fernando Martínez Alvarado,DUI-90000218,historico218@correo.com,79830191,Colón,La Libertad
+empresa,Comercial Cruz S.A. de C.V.,NIT-0614-900216,historico216@correo.com,71012258,San Salvador,San Salvador
+persona,Roberto García Alvarado,DUI-90000230,historico230@correo.com,74225318,Apopa,San Salvador
+persona,Marta Cruz Mejía,DUI-90000161,historico161@correo.com,72771930,Santa Tecla,La Libertad
+persona,Ernesto Cruz Mejía,DUI-90000162,historico162@correo.com,72752764,Colón,La Libertad
+persona,Julio Cruz Molina,DUI-00000106,nuevo106@correo.com,75001831,Colón,La Libertad
+persona,Verónica Martínez Alvarado,DUI-90000215,historico215@correo.com,70018285,Soyapango,San Salvador
+persona,Fernando López Mejía,DUI-90000128,historico128@correo.com,75306786,San Salvador,San Salvador
+persona,Héctor Castillo Mejía,DUI-90000194,historico194@correo.com,76786641,Colón,La Libertad
+persona,Fernando Fuentes Zelaya,DUI-80000128,donante128@correo.com,71990663,San Salvador,San Salvador
+persona,Marta Fuentes Pérez,DUI-90000081,historico81@correo.com,76544311,Santa Tecla,La Libertad
+persona,Karla Hernández Mejía,DUI-90000109,historico109@correo.com,70381892,Nahuizalco,Sonsonate
+persona,Héctor Martínez Alvarado,DUI-90000214,historico214@correo.com,71669908,Apopa,San Salvador
+persona,Ernesto Hernández Pérez,DUI-90000002,repetido_historico2@correo.com,73441991,Colón,La Libertad
+persona,Gabriela Flores Alvarado,DUI-90000243,historico243@correo.com,73693790,Sonsonate,Sonsonate
+persona,Verónica López Mejía,DUI-90000125,historico125@correo.com,78391394,Nahuizalco,Sonsonate
+persona,Roberto Hernández Mejía,DUI-90000100,historico100@correo.com,71073935,Izalco,Sonsonate
+persona,Verónica Cruz Mejía,DUI-90000165,historico165@correo.com,70891700,Nahuizalco,Sonsonate
+persona,Julio Fuentes Pérez,DUI-90000086,historico86@correo.com,70136797,Apopa,San Salvador
+persona,Daniela Martínez Alvarado,DUI-90000217,historico217@correo.com,79999442,Santa Tecla,La Libertad
+persona,Daniela Castillo Mejía,DUI-90000197,historico197@correo.com,75161398,Nahuizalco,Sonsonate
+persona,Marta Hernández Alvarado,DUI-90000201,historico201@correo.com,73687840,Santa Tecla,La Libertad
+persona,Ernesto García Alvarado,DUI-90000232,historico232@correo.com,71687717,San Salvador,San Salvador
+persona,Gabriela Castillo Pérez,DUI-90000093,historico93@correo.com,70571617,Nahuizalco,Sonsonate
+persona,Ernesto Flores Alvarado,DUI-90000242,historico242@correo.com,79249502,Colón,La Libertad
+persona,Daniela López Pérez,DUI-90000027,historico27@correo.com,74923439,Sonsonate,Sonsonate
+persona,Roberto Cruz Mejía,DUI-90000160,historico160@correo.com,79083106,San Salvador,San Salvador
+empresa,Comercial López S.A. de C.V.,NIT-0614-900012,repetido_historico12@correo.com,74067632,Izalco,Sonsonate
+persona,Fernando García Mejía,DUI-90000138,historico138@correo.com,75426439,Colón,La Libertad
+persona,Marta Castillo Pérez,DUI-90000091,historico91@correo.com,79764592,Sonsonate,Sonsonate
+persona,Roberto Martínez Pérez,DUI-90000010,repetido_historico10@correo.com,72879263,Colón,La Libertad
+persona,Daniela Hernández Pérez,DUI-90000007,historico7@correo.com,78006991,Soyapango,San Salvador
+persona,Verónica Flores Mejía,DUI-90000145,historico145@correo.com,73663696,Santa Tecla,La Libertad
+persona,Verónica Castillo Pérez,DUI-90000095,historico95@correo.com,77207855,Soyapango,San Salvador
+persona,Fernando García Alvarado,DUI-90000238,historico238@correo.com,74470581,Apopa,San Salvador
+persona,Fernando Hernández Pérez,DUI-90000008,repetido_historico8@correo.com,70700218,San Salvador,San Salvador
+persona,Karla García Pérez,DUI-90000039,historico39@correo.com,77247949,Soyapango,San Salvador
+persona,Gabriela Cruz Pérez,DUI-90000063,historico63@correo.com,76832411,Soyapango,San Salvador
+persona,Gabriela Cruz Mejía,DUI-90000163,historico163@correo.com,78785587,Sonsonate,Sonsonate
+persona,Julio Castillo Mejía,DUI-90000196,historico196@correo.com,70907271,Izalco,Sonsonate
+persona,Ernesto Flores Pérez,DUI-90000042,historico42@correo.com,74203421,Colón,La Libertad
+persona,Marta Orellana Pérez,DUI-90000071,historico71@correo.com,71615024,Soyapango,San Salvador
+persona,Julio Martínez Mejía,DUI-90000116,historico116@correo.com,71688272,Izalco,Sonsonate
+persona,Verónica Martínez Pérez,DUI-90000015,historico15@correo.com,70483043,Soyapango,San Salvador
+persona,Gabriela Ramírez Pérez,DUI-90000053,historico53@correo.com,79204896,Nahuizalco,Sonsonate
+persona,Marta Ramírez Mejía,DUI-90000151,historico151@correo.com,71738353,Soyapango,San Salvador
+persona,Ernesto Hernández Mejía,DUI-90000102,historico102@correo.com,72833523,Apopa,San Salvador
+persona,Karla Flores Mejía,DUI-90000149,historico149@correo.com,78806848,Nahuizalco,Sonsonate
+persona,Daniela López Mejía,DUI-90000127,historico127@correo.com,76741710,Soyapango,San Salvador
+persona,Julio Orellana Pérez,DUI-90000076,historico76@correo.com,75837181,Izalco,Sonsonate
+persona,Ernesto Ramírez Mejía,DUI-90000152,historico152@correo.com,70389670,San Salvador,San Salvador
+persona,Daniela Hernández Mejía,DUI-90000107,historico107@correo.com,77101662,Sonsonate,Sonsonate
+persona,Roberto Fuentes Pérez,DUI-90000080,historico80@correo.com,77879768,San Salvador,San Salvador
+persona,Fernando Orellana Mejía,DUI-90000178,historico178@correo.com,75101924,Colón,La Libertad
+persona,Fernando López Pérez,DUI-90000028,historico28@correo.com,79118556,Izalco,Sonsonate
+empresa,Comercial López S.A. de C.V.,NIT-0614-900132,historico132@correo.com,72590495,Izalco,Sonsonate
+persona,Ernesto Hernández Alvarado,DUI-90000202,historico202@correo.com,79533625,Colón,La Libertad
+persona,Gabriela Castillo Mejía,DUI-90000193,historico193@correo.com,74391715,Santa Tecla,La Libertad
+persona,Héctor Ramírez Pérez,DUI-90000054,historico54@correo.com,70750759,Apopa,San Salvador
+persona,Karla Castillo Monterrosa,DUI-00000119,nuevo119@correo.com,70540742,Soyapango,San Salvador
+persona natural,Ernesto López Alvarado,DUI-70000002,tipoinvalido2@correo.com,77389324,Colón,La Libertad
+persona,Verónica Ramírez Aguilar,DUI-00000105,nuevo105@correo.com,78094086,Santa Tecla,La Libertad
+persona,Marta Flores Alvarado,DUI-90000241,historico241@correo.com,75048008,Santa Tecla,La Libertad
+empresa,Comercial Hernández S.A. de C.V.,NIT-0614-900120,historico120@correo.com,73990983,San Salvador,San Salvador
+persona,Fernando Hernández Pérez,DUI-90000008,historico8@correo.com,70700218,San Salvador,San Salvador
+persona,Héctor Orellana Pérez,DUI-90000074,historico74@correo.com,72244549,Colón,La Libertad
+persona,Marta Flores Pérez,DUI-90000041,historico41@correo.com,70942938,Santa Tecla,La Libertad
+persona,Marta Martínez Alvarado,DUI-90000211,historico211@correo.com,71588277,Sonsonate,Sonsonate
+persona natural,Karla Castillo Monterrosa,DUI-70000009,tipoinvalido9@correo.com,72203751,Santa Tecla,La Libertad
+persona,Héctor Flores Rivas,DUI-00000114,nuevo114@correo.com,74637712,Colón,La Libertad
+persona,Marta García Pérez,DUI-90000031,historico31@correo.com,78547974,Soyapango,San Salvador
+persona,Verónica Ramírez Aguilar,DUI-00000115,nuevo115@correo.com,71283632,Sonsonate,Sonsonate
+empresa,Comercial López S.A. de C.V.,NIT-0614-900072,historico72@correo.com,74021083,San Salvador,San Salvador
+persona,Héctor López Mejía,DUI-90000124,historico124@correo.com,79995603,Izalco,Sonsonate
+persona,Héctor Hernández Pérez,DUI-90000004,repetido_historico4@correo.com,79127046,Izalco,Sonsonate
+persona,Karla Orellana Mejía,DUI-90000179,historico179@correo.com,74386090,Sonsonate,Sonsonate
+persona,Ernesto Fuentes Pérez,DUI-90000082,historico82@correo.com,70541831,Colón,La Libertad
+persona,Julio Fuentes Mejía,DUI-90000186,historico186@correo.com,75440311,Colón,La Libertad
+persona,Julio Hernández Pérez,DUI-90000006,historico6@correo.com,72145343,Apopa,San Salvador
+persona,Héctor Martínez Pérez,DUI-90000014,historico14@correo.com,73388053,Apopa,San Salvador
+persona,Gabriela Martínez Alvarado,DUI-90000213,historico213@correo.com,78647484,Nahuizalco,Sonsonate
+persona,Héctor Orellana Mejía,DUI-90000174,historico174@correo.com,73869718,Apopa,San Salvador
+persona,Karla Hernández Pérez,DUI-90000009,historico9@correo.com,78434535,Santa Tecla,La Libertad
+persona,Ernesto Fuentes Mejía,DUI-90000182,historico182@correo.com,78787141,Apopa,San Salvador
+persona,Verónica Fuentes Mejía,DUI-90000185,historico185@correo.com,78264690,Santa Tecla,La Libertad
+persona,Gabriela García Campos,DUI-00000113,nuevo113@correo.com,71324005,Santa Tecla,La Libertad
+persona,Daniela Orellana Batres,DUI-00000107,nuevo107@correo.com,73742147,Sonsonate,Sonsonate
+persona,Fernando Fuentes Mejía,DUI-90000188,historico188@correo.com,74618467,Izalco,Sonsonate
+persona,Verónica Orellana Pérez,DUI-90000075,historico75@correo.com,74638358,Sonsonate,Sonsonate
+persona,Verónica Ramírez Mejía,DUI-90000155,historico155@correo.com,71670958,Sonsonate,Sonsonate
+persona,Daniela Martínez Pérez,DUI-90000017,historico17@correo.com,72419329,Santa Tecla,La Libertad
+persona,Roberto Hernández Pérez,DUI-00000110,nuevo110@correo.com,78081702,Apopa,San Salvador
+persona,Daniela Orellana Batres,DUI-80000127,donante127@correo.com,77713675,Soyapango,San Salvador
+persona,Marta García Alvarado,DUI-90000231,historico231@correo.com,74382789,Soyapango,San Salvador
+persona,Verónica García Pérez,DUI-90000035,historico35@correo.com,79414086,Sonsonate,Sonsonate
+persona,Roberto Ramírez Alvarado,DUI-90000250,historico250@correo.com,77839185,Colón,La Libertad
+persona,Gabriela Ramírez Mejía,DUI-90000153,historico153@correo.com,73574536,Santa Tecla,La Libertad
+empresa,Comercial Flores S.A. de C.V.,NIT-0614-900204,historico204@correo.com,78458760,Izalco,Sonsonate
+persona natural,Daniela Orellana Batres,DUI-70000007,tipoinvalido7@correo.com,73635049,Soyapango,San Salvador

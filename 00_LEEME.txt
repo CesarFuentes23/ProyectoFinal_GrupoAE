@@ -1,0 +1,54 @@
+PROYECTO DE CATEDRA ABD - FUNDACION RAICES SOLIDARIAS
+Scripts de la Fase 2 - SQL Server 2025 Developer en Docker
+
+ENTORNO
+- Contenedor sqlserver-2025, puerto 1434, usuario sa. SSMS: localhost,1434
+  con autenticacion de SQL Server.
+- Rutas dentro del contenedor:
+    /var/opt/mssql   datos y log
+    /backup          volumen de respaldos (subcarpetas Full, Diferencial, Log)
+    /csv             carpeta del equipo (copiar aqui donantes_historicos.csv
+                     y crear la subcarpeta copia_externa)
+- Crear las subcarpetas de respaldo antes del 05:
+    docker exec sqlserver-2025 mkdir -p /backup/Full /backup/Diferencial /backup/Log
+    docker exec sqlserver-2025 mkdir -p /csv/copia_externa
+    (dar permisos si hace falta: chmod -R 777 sobre esas rutas)
+- El Agent debe estar activo (MSSQL_AGENT_ENABLED=true).
+
+ORDEN DE EJECUCION
+1. 01_creacion_bd.sql        base, archivos, filegroups, esquemas, tablas
+2. 02_carga_datos.sql        datos de prueba (menos de 1 minuto)
+3. 03_seguridad.sql          logins, roles, permisos y prueba de acceso
+                             denegado (los dos Msg 229 son lo esperado)
+4. 04_indices_y_consultas.sql  consultas ANTES, indices, consultas DESPUES
+   04b_medicion_consultas.sql  mediciones con statistics io/time
+5. 05_respaldos_agent.sql    full inicial + 4 jobs del Agent
+   Antes de Job_Copia_Externa:  dbcc traceon(3042, -1)
+   (se pierde al reiniciar el servidor; sin ella el respaldo hacia /csv
+   falla con el error 31)
+6. 07_migracion_csv.sql      300 donantes desde CSV (UTF-8 por colacion):
+                             250 cargadas, 50 rechazadas
+7. 06_recuperacion_desastre.sql  simulacro, bloque por bloque. Restaura en
+                             DonacionesONG_Rec sin tocar la original. Al
+                             final: drop database DonacionesONG_Rec.
+   Si falla con error 4305 falta un log en la cadena: tomar un full nuevo
+   (backup database ... with checksum, compression), luego el bloque de
+   la cola del log y repetir.
+
+NOTAS DEL ENTORNO
+- La carga de datos con tildes usa colacion UTF-8 en la tabla de paso.
+- La copia externa del Agent es un paso T-SQL.
+- Cerrar sin guardar pestanas viejas de SSMS antes de abrir estos
+  archivos: SSMS puede pisarlos con la version anterior.
+
+CREDENCIALES DE DEMOSTRACION (cambiarlas antes de la defensa)
+  login_direccion / Direccion#2026!     login_captacion / Captacion#2026!
+  login_finanzas  / Finanzas#2026!      login_proyectos / Proyectos#2026!
+  login_powerbi   / PowerBi#2026!
+
+POWER BI
+- Obtener datos > SQL Server > localhost,1434 > DonacionesONG > credenciales
+  de base de datos: login_powerbi. Importar solo las tres vistas:
+  finanzas.vw_DetalleDonaciones, proyectos.vw_AvanceProyectos,
+  finanzas.vw_RankingDonantes.
+- Medidas DAX en la seccion 8.2 del informe (tablas con comillas simples).
