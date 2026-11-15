@@ -6,9 +6,9 @@ Universidad Centroamericana José Simeón Cañas (UCA), ciclo 02-2026. Noviembre
 
 | Integrante | Carnet |
 |---|---|
-| Alejandra Paola Orellana | |
-| Diego Cruz | |
-| César Fuentes | |
+| Alejandra Paola Orellana | 00108225 |
+| Diego Cruz | 00140725 |
+| César Fuentes | 00118825 |
 | Carlos Flores | 00079225 |
 
 ## 1. Contenido del repositorio
